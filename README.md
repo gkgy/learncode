@@ -12,3 +12,8 @@ https://github.com/icodeu/BeautifulSoup 其中一个人做的
 4.
 
 python还能干什么呢？
+https://www.zhihu.com/question/29372574 学习很多30个项目
+1.第一个项目python图片转变成字符组成的画
+http://www.jianshu.com/p/991cb07b3ad3
+https://docs.python.org/2/library/argparse.html
+https://hg.python.org/cpython/file/2.7/Lib/argparse.py 官网argparse的源代码
